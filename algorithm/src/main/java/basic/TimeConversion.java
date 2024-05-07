@@ -20,6 +20,7 @@ public class TimeConversion {
                 return time + 12 + s.substring(2, s.length() - 2);
             }
         } else {
+            // s.startsWith("12")
             if (s.substring(0, 2).equals("12")) {
                 return "00" + s.substring(2, s.length() - 2);
             } else {
