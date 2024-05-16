@@ -1,6 +1,6 @@
 package basic.collection.sort;
 
-class Actor implements Comparable<Object> {
+public class Actor implements Comparable<Object> {
 
     String name;
     String title;
