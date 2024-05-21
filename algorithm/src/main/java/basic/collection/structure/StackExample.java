@@ -1,4 +1,4 @@
-package basic;
+package basic.collection.structure;
 
 import java.util.NoSuchElementException;
 
