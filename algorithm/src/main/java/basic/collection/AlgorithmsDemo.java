@@ -1,4 +1,4 @@
-package basic;
+package basic.collection;
 import java.util.*;
 
 public class AlgorithmsDemo {

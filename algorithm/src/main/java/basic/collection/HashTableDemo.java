@@ -1,4 +1,4 @@
-package basic;
+package basic.collection;
 
 import java.util.Enumeration;
 import java.util.Hashtable;

@@ -1,4 +1,4 @@
-package basic;
+package basic.quiz;
 
  // main 메소드에 최소 10개 이상의 요소로 구성된 integer array를 정의 한 후 해당 array의 최소 값이 위치한 자리수와 그 값을 출력한다.
 

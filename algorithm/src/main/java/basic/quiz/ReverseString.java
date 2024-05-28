@@ -1,4 +1,4 @@
-package basic;
+package basic.quiz;
 
 public class ReverseString {
 //    public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package basic;
+package basic.quiz;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

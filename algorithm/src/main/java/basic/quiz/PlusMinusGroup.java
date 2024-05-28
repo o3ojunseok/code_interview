@@ -1,6 +1,4 @@
-package basic;
-
-import java.util.Arrays;
+package basic.quiz;
 
 public class PlusMinusGroup {
     // 배열 numbers에 음수, 양수, 0 등의 숫자가 임의로 들어가 있다. 유형별로 개수 파악해 비율로 표시
