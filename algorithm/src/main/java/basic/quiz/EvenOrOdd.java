@@ -13,6 +13,7 @@ public class EvenOrOdd {
 
         EvenOrOdd eo = new EvenOrOdd();
         System.out.println(num + " 은(는) " + eo.evenOrOdd(num) + " 입니다.");
+        // return (num % 2 == 0) ? "Even" : "Odd";
     }
 
     public String evenOrOdd(int num) {
