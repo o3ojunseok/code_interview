@@ -1,6 +1,4 @@
-package basic.java8.lambda.comparator;
-
-import basic.java8.funcional.predicate.Tshirt;
+package basic.java8.funcional.predicate;
 
 @FunctionalInterface
 interface TshirtPredicate {
