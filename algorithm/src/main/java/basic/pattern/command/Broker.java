@@ -1,4 +1,4 @@
-package basic.pattern.command.logging;
+package basic.pattern.command;
 
 import java.util.ArrayList;
 import java.util.List;
