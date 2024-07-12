@@ -5,4 +5,4 @@
  * - Factorty Pattern을 통해 실제 사용하는 곳에서 Concrete class를 정하지 않고 Factory 를 사용하여 의존성을 받도록 하여 Concrete class를
  * 전혀 의존하지 않도록 한다 (DIP : Depencency Inversion Priciple)
  */
-package net.harunote.pattern.factory;
+package basic.pattern.factory;
